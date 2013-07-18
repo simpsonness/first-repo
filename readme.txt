@@ -1,3 +1,3 @@
 this is a book
 this is a phone
-I have a phone
+I don't use phone
