@@ -1,9 +1,4 @@
-This is apple.
-This is Lucy.
-This is orange.
-This is a bike.
-This is a book.
+I like working out.
 I like reading books.
-
-
+1,2,3,4,5,6.
 
